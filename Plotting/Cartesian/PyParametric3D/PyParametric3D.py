@@ -1,4 +1,4 @@
-# Python 3.9 program for plotting parametric
+# Python 3.11.3 program for plotting parametric
 # Runs on both Mac and PC with IDLE
 # Source code can be used for Anaconda and Spyder
 

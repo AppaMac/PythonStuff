@@ -1,4 +1,4 @@
-# Python 3.9 program for plotting Archimedean Spiral
+# Python 3.11.3 program for plotting Archimedean Spiral
 # Runs on both Mac and PC with IDLE
 # Source code can be used for Anaconda and Spyder
 
